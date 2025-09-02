@@ -13,7 +13,7 @@ Exploring adaptive and genetic AI behaviors in simulations, building toward mult
 ## Technologies Used
 - **C#** for AI and simulation logic.
 - **Unity** for visualization and UI.
-- Optional: **Genetic algorithms** for evolving AI behaviors.
+- **Genetic algorithms** for evolving AI behaviors.
 
 ## Setup / Installation
 1. Clone the repository:
